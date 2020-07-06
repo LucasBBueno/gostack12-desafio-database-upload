@@ -16,3 +16,6 @@ In this application, we used the same 'Transaction' system idea of the previous 
 - [TypeORM](https://typeorm.io/#/) migrations and manipulation in the Postgre database;
 - [DBeaver](https://dbeaver.io/) for Postgre.
 
+---
+
+Made with ♥ by Lucas Bueno :wave: [Get in touch!](https://www.linkedin.com/in/lucasbbueno)
